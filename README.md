@@ -16,6 +16,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/jamesmosey"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jamesmosey" /></a></p><br><br>
+<br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jamesmosey&show_icons=true&locale=en" alt="jamesmosey" /></p>
 
