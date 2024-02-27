@@ -8,7 +8,7 @@
 - 📬 Contact me at: **jamesmosey@proton.me**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/james-mosey/"
+<a href="https://www.linkedin.com/in/james-mosey/"><h3 align="left">Connect with me on LinkedIn!</h3> </a>
 
 
 <h3 align="left">Languages and Tools:</h3>
